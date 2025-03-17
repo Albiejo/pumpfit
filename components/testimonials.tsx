@@ -6,7 +6,7 @@ import { Star } from "lucide-react"
 export default function Testimonials() {
   const testimonials = [
     {
-      name: "David Miller",
+      name: "David Mill",
       role: "Member for 2 years",
       image: "/placeholder.svg?height=100&width=100",
       content:
